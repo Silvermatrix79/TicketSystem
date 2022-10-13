@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Shared.Models;
-using TicketServiceWebApi.Services;
+using TicketServiceWebApi.Services.Interfaces;
 
 namespace TicketServiceWebApi.Controllers
 {

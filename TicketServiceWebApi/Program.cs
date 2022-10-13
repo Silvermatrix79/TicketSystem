@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 using TicketServiceWebApi.Data;
 using TicketServiceWebApi.Services;
+using TicketServiceWebApi.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

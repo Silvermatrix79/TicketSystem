@@ -2,7 +2,7 @@
 
 using Shared.Models;
 
-namespace TicketServiceWebApi.Services
+namespace TicketServiceWebApi.Services.Interfaces
 {
     public interface IDepartmentService
     {

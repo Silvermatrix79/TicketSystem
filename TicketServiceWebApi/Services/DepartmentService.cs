@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Shared.Models;
 using TicketServiceWebApi.Data;
-
+using TicketServiceWebApi.Services.Interfaces;
 
 namespace TicketServiceWebApi.Services
 {
